@@ -1,0 +1,7 @@
+module colibri.java9 {
+    requires javax.transaction.api;
+    requires hibernate.core;
+    requires json.simple;
+    requires hibernate.jpa;
+    requires commons.csv;
+}
